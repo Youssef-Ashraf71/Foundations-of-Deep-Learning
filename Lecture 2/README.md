@@ -34,6 +34,6 @@ python Least average euclidean distance Model.ipynb
 
 You can configure the gradient descent algorithm by adjusting the following parameters in the gradient_descent.py script:
 
-- step: the learning rate used in the gradient descent algorithm
-- EPOCHS : the number of iterations used in the gradient descent algorithm
-- DELTA: the convergence criterion used in the gradient descent algorithm
+- step:  determines the number of data points or samples that will be generated for the domain of the function being optimized.
+- EPOCHS : the number of times the gradient descent algorithm will iterate over the training data.
+- DELTA: represents the learning rate or step size for the gradient descent algorithm. The learning rate is a hyperparameter that determines the size of the step taken in the direction of the negative gradient while updating the model parameters (in this case x_p and y_p).
