@@ -16,7 +16,7 @@ The course materials in this repository are licensed under " Foundations of Deep
 
 ## Lectures:
 * [Lecture(2)](https://github.com/Youssef-Ashraf71/Foundations-of-Deep-Learning/tree/main/Lecture%202): Gradient descent
-* Lecture(3): Numeric Conceptualization of Derivatives & Backward propagation
+* [Lecture(3)](https://github.com/Youssef-Ashraf71/Foundations-of-Deep-Learning/tree/main/Lecture%203): Numeric Conceptualization of Derivatives & Backward propagation
 * Lecture(4): Stochastic Gradient Descent 
 * Lecture(5 & 6): Pytorch 
 
