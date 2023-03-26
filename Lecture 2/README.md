@@ -8,7 +8,7 @@
 
 ## Methods
 
-- [Using The definition of the derivative](link)
+- [Using The definition of the derivative](https://github.com/Youssef-Ashraf71/Foundations-of-Deep-Learning/blob/main/Lecture%202/Least%20average%20euclidean%20distance%20Model.ipynb)
 
 ## Usage
 
