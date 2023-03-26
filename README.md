@@ -15,7 +15,7 @@ If you find a bug please feel free to open an issue or submit a pull request. We
 The course materials in this repository are licensed under " Foundations of Deep Learning " by Dr.Mena Fall 2023
 
 ## Lectures:
-* Lecture(2): Gradient descent
+* [Lecture(2)](https://github.com/Youssef-Ashraf71/Foundations-of-Deep-Learning/tree/main/Lecture%202): Gradient descent
 * Lecture(3): Numeric Conceptualization of Derivatives & Backward propagation
 * Lecture(4): Stochastic Gradient Descent 
 * Lecture(5 & 6): Pytorch 
