@@ -4,7 +4,7 @@
 This repository contains all the course materials you'll need to complete the course, including lecture notes, assignments, example code, and data sets. You'll also find documentation on how to set up your environment, run the code examples, and complete the assignments.
 
 ### Getting Started
-To get started with the course, you'll need to have some prior experience with Python programming and linear algebra. You'll also need to have a working installation of Python 3 and the TensorFlow deep learning library. 
+To get started with the course, you'll need to have some prior experience with Python programming and linear algebra. You'll also need to have a working installation of Python 3 and the Pytorch deep learning library. 
 
 
 ### Contributing
