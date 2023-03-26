@@ -6,7 +6,7 @@
 
 ## Methods
 
-- [Using Closed Form evaluated by backward Propagation](link)
+- [Using Closed Form evaluated by backward Propagation](https://github.com/Youssef-Ashraf71/Foundations-of-Deep-Learning/blob/main/Lecture%203/Least_average_euclidean_distance_Model.ipynb)
 
 ## Concept
 
