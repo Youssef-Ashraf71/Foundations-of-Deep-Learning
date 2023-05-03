@@ -19,7 +19,7 @@ This is a simple implementation of a computational graph using Python. The imple
 ## Backward Propagation
 
 The implementation uses the chain rule for the backward propagation of gradients. The computational graph is composed of comp_node objects, which represent the nodes of the graph. Each node has a backward_prop function that updates its gradient using the gradients of its children. The backward_prop functions are defined according to the chain rule, which calculates the gradients of the output with respect to each node by multiplying the gradients of its children.
-
+This from the pov of Forward pass 
 ---
 
 ## Supported Operations
