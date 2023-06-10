@@ -20,3 +20,4 @@ The course materials in this repository are licensed under " Foundations of Deep
 * Lecture(4): Stochastic Gradient Descent 
 * [Lecture(5 & 6)](https://github.com/Youssef-Ashraf71/Foundations-of-Deep-Learning/tree/main/Lecture%205%266): Pytorch & Supervised Learning
 * [Lecture(7 & 8)](https://github.com/Youssef-Ashraf71/Foundations-of-Deep-Learning/tree/main/Lecture%207%268): Automatic Differentiation with Python & Computational Graph
+* [Lecture(9)](https://github.com/Youssef-Ashraf71/Foundations-of-Deep-Learning/tree/main/Lecture%209): Graph Traversals & Topological Sort
