@@ -1,5 +1,5 @@
 # Foundations-of-Deep-Learning
- Welcome to the Foundations of Deep Learning course! This course covers the fundamental concepts and techniques used in deep learning, including neural networks, convolutional networks, recurrent networks, and more.
+ Welcome to the Foundations of Deep Learning course! This course covers the fundamental concepts and techniques used in deep learning, including neural networks, convolutional networks.
 
 This repository contains all the course materials you'll need to complete the course, including lecture notes, assignments, example code, and data sets. You'll also find documentation on how to set up your environment, run the code examples, and complete the assignments.
 
